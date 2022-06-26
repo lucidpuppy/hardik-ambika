@@ -344,7 +344,7 @@
 }
 
 .sakura {
-	background: #F67B50;
+	background: #F8A284;
 }
 
 
@@ -404,7 +404,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #F67B50;
+	color: #F8A284;
 	margin: 16px;
 	text-align: center;
 }
@@ -414,7 +414,7 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
-	color: #F67B50;
+	color: #F8A284;
 	margin-top: 5px;
 }
 
@@ -474,7 +474,7 @@ body {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #F67B50;
+	background-color: #F8A284;
 	border-radius: 16px;
 	text-align: center;
 	color: #fff;
@@ -513,7 +513,7 @@ body {
 }
 
 .minutes {
-	background-color: #F67B50;
+	background-color: #F8A284;
 }
 
 .seconds {
@@ -521,12 +521,12 @@ body {
 }
 
 .date {
-	color: #F67B50;
+	color: #F8A284;
 	font-weight: 900;
 }
 
 .place {
-	color: #F67B50;
+	color: #F8A284;
 	font-weight: 900;
 }
 
@@ -538,7 +538,7 @@ body {
 }
 
 .phone {
-	color: #F67B50
+	color: #F8A284
 }
 
 .end-msg {
@@ -557,7 +557,7 @@ a {
 }
 
 .happiness {
-	color: #F67B50;
+	color: #F8A284;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: center;
@@ -565,7 +565,7 @@ a {
 }
 
 .twitter {
-	color: #F67B50;
+	color: #F8A284;
 }
 
 .music {
