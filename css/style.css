@@ -404,7 +404,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #F8A284;
+	color: #000000;
 	margin: 16px;
 	text-align: center;
 }
@@ -495,8 +495,8 @@ body {
 }
 
 .block {
-	width: 180px;
-	height: 160px;
+	width: 120px;
+	height: 90px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
