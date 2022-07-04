@@ -1,22 +1,22 @@
 @-webkit-keyframes fall {
 	0% {
 		opacity: 0.9;
-		top: 0
+		top: 6%;
 	}
 	100% {
-		opacity: 0.2;
-		top: 100%
+		opacity: 0.6;
+		top: 200%
 	}
 }
 
 @keyframes fall {
 	0% {
 		opacity: 0.9;
-		top: 0
+		top: 6%;
 	}
 	100% {
-		opacity: 0.2;
-		top: 100%
+		opacity: 0.6;
+		top: 200%
 	}
 }
 
@@ -577,42 +577,42 @@ a {
 @media (min-width:320px)  { 
 	img {
 		width: auto ;
-		max-width: 50% ;
+		max-width: 48% ;
 		height: auto ;
 	  }
 }
 @media (min-width:481px)  { 
 	img {
 		width: auto ;
-		max-width: 46% ;
+		max-width: 48% ;
 		height: auto ;
 	  }
 }
 @media (min-width:641px)  { 
 	img {
 		width: auto ;
-		max-width: 40% ;
+		max-width: 45% ;
 		height: auto ;
 	  }
  }
 @media (min-width:961px)  { 
 	img {
 		width: auto ;
-		max-width: 35% ;
+		max-width: 40% ;
 		height: auto ;
 	  }
  }
 @media (min-width:1025px) { 
 	img {
 		width: auto ;
-		max-width: 30% ;
+		max-width: 35% ;
 		height: auto ;
 	  }
  }
 @media (min-width:1281px) { 
 	img {
 		width: auto ;
-		max-width: 30% ;
+		max-width: 35% ;
 		height: auto ;
 	  }
  }
