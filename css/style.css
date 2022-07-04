@@ -584,35 +584,35 @@ a {
 @media (min-width:481px)  { 
 	img {
 		width: auto ;
-		max-width: 50% ;
+		max-width: 46% ;
 		height: auto ;
 	  }
 }
 @media (min-width:641px)  { 
 	img {
 		width: auto ;
-		max-width: 50% ;
+		max-width: 40% ;
 		height: auto ;
 	  }
  }
 @media (min-width:961px)  { 
 	img {
 		width: auto ;
-		max-width: 50% ;
+		max-width: 35% ;
 		height: auto ;
 	  }
  }
 @media (min-width:1025px) { 
 	img {
 		width: auto ;
-		max-width: 40% ;
+		max-width: 30% ;
 		height: auto ;
 	  }
  }
 @media (min-width:1281px) { 
 	img {
 		width: auto ;
-		max-width: 40% ;
+		max-width: 30% ;
 		height: auto ;
 	  }
  }
